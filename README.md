@@ -3,7 +3,7 @@
 
 <!--[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonieV&hide=Tex,PostScript&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonieV&show_icons=true&locale=en&layout=compact&hide=Tex,PostScript&theme=chartreuse-dark" alt="AntonieV" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonieV&show_icons=true&locale=en&layout=compact&hide=Tex,PostScript&border_color=2a2f3a&custom_title=Most used languages:&langs_count=10&theme=chartreuse-dark" alt="AntonieV" /></p> 
 
 ### Languages and frameworks: 
 ![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=green)
@@ -20,6 +20,5 @@
 ![](https://img.shields.io/badge/Linux-FFFF00?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<br>
-
+<h6>(made with <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges4-README</a> and <a href="https://github.com/Ileriayo/markdown-badges">markdown-badges</a>)</h6>
 <!--[![](https://github-readme-stats.vercel.app/api?username=AntonieV&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->

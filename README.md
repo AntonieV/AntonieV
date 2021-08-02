@@ -3,7 +3,7 @@
 
 <!--[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonieV&hide=Tex,PostScript&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonieV&show_icons=true&locale=en&layout=compact&hide=Tex,PostScript&border_color=2a2f3a&custom_title=Most used languages:&langs_count=10&theme=chartreuse-dark" alt="AntonieV" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonieV&show_icons=true&locale=en&layout=compact&hide=Tex,PostScript&border_color=2a2f3a&custom_title=Most used languages:&langs_count=9&theme=chartreuse-dark" alt="AntonieV" /></p> 
 
 ### Languages and frameworks: 
 

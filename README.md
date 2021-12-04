@@ -35,5 +35,6 @@
 ![](https://img.shields.io/badge/npm-%2314354C?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Linux-%2314354C?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/latex-%2314354C.svg?style=for-the-badge&logo=latex&logoColor=008181)
+<img src="https://ngrx.io/assets/images/ngrx-badge.png" width="27" height="27">
 
 <!-- [![](https://github-readme-stats.vercel.app/api?username=AntonieV&show_icons=true&count_private=true&hide_rank=false&include_all_commits=false&custom_title=Statistics:&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->

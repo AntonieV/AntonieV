@@ -30,11 +30,12 @@
 ![](https://img.shields.io/badge/CSS3-%2314354C?style=for-the-badge&logo=css3&logoColor=3885F1)
 ![](https://img.shields.io/badge/HTML5-%2314354C?style=for-the-badge&logo=html5&logoColor=FD7D21) 
 ![](https://img.shields.io/badge/Angular-%2314354C?style=for-the-badge&logo=angular&logoColor=FA0F0F)
+<img src="https://ngrx.io/assets/images/ngrx-badge.png" width="27" height="27">
 ![](https://img.shields.io/badge/Spring-%2314354C?style=for-the-badge&logo=spring&logoColor=green)
 ![](https://img.shields.io/badge/Node.js-%2314354C?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![](https://img.shields.io/badge/npm-%2314354C?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Linux-%2314354C?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/latex-%2314354C.svg?style=for-the-badge&logo=latex&logoColor=008181)
-<img src="https://ngrx.io/assets/images/ngrx-badge.png" width="27" height="27">
+
 
 <!-- [![](https://github-readme-stats.vercel.app/api?username=AntonieV&show_icons=true&count_private=true&hide_rank=false&include_all_commits=false&custom_title=Statistics:&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->

@@ -1,4 +1,4 @@
-<img src='dna_banner.jpg' alt="banner" width="100%" height="200"></img>
+<!-- <img src='dna_banner.jpg' alt="banner" width="100%" height="200"></img> -->
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 

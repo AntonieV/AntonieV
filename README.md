@@ -1,3 +1,5 @@
+<img src='dna_banner.jpg' alt="banner" width="100%" height="200"></img>
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 <!--[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonieV&hide=Tex,PostScript&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)-->

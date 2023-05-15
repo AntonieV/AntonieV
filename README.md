@@ -1,6 +1,7 @@
 <!-- <img src='dna_banner.jpg' alt="banner" width="100%" height="200"></img> -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=antoniev&right_color=#11d4c3)
+![](https://komarev.com/ghpvc/?username=antoniev&color=39fc03&style=plastic&label=VISITORS)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=antoniev&right_color=#11d4c3) -->
 
 <!--[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonieV&hide=Tex,PostScript&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 

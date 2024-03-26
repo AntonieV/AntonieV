@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/CSS3-%2314354C?style=for-the-badge&logo=css3&logoColor=3885F1)
 ![](https://img.shields.io/badge/HTML5-%2314354C?style=for-the-badge&logo=html5&logoColor=FD7D21) 
 ![](https://img.shields.io/badge/Angular-%2314354C?style=for-the-badge&logo=angular&logoColor=FA0F0F)
-<img src="https://ngrx.io/assets/images/ngrx-badge.png" width="27" height="27">
+<img src="https://ngrx.io/assets/images/badge.svg" width="27" height="27">
 ![](https://img.shields.io/badge/Spring-%2314354C?style=for-the-badge&logo=spring&logoColor=green)
 ![](https://img.shields.io/badge/Node.js-%2314354C?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![](https://img.shields.io/badge/npm-%2314354C?style=for-the-badge&logo=npm&logoColor=white)

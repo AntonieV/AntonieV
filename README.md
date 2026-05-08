@@ -5,8 +5,10 @@
 
 <!--[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonieV&hide=Tex,PostScript&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonieV&show_icons=true&locale=en&layout=compact&hide=Tex,PostScript,jupyter%20notebook&border_color=2a2f3a&langs_count=9&theme=chartreuse-dark"></p><br>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonieV&show_icons=true&locale=en&layout=compact&hide=Tex,PostScript,jupyter%20notebook&border_color=2a2f3a&langs_count=9&theme=chartreuse-dark"></p><br> -->
 
+<!-- ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AntonieV&show_icons=true&theme=radical) -->
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AntonieV&layout=compact&hide=Tex,PostScript,jupyter%20notebook&border_color=2a2f3a&langs_count=9&theme=chartreuse-dark)<br>
 
 ### Languages and frameworks: 
 
@@ -27,7 +29,7 @@
 
 
 <!--https://github.com/tandpfun/skill-icons -->
-[![My Skills](https://skillicons.dev/icons?i=python,r,bash,java,typescript,css,html,angular,docker,aws,linux,latex,npm,nodejs,spring&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,java,typescript,bash,css,html,angular,docker,aws,linux,latex,npm,nodejs,spring&perline=5)](https://skillicons.dev)
 
 <!--![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=green)
 ![](https://img.shields.io/badge/r-%2314354C.svg?style=for-the-badge&logo=r&logoColor=3885F1)

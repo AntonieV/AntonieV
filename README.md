@@ -47,4 +47,13 @@
 ![](https://img.shields.io/badge/latex-%2314354C.svg?style=for-the-badge&logo=latex&logoColor=008181)
 
 
+
+<!-- Use picture tag to support both light and dark mode themes -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/AntonieV/AntonieV/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/AntonieV/AntonieV/output/github-contribution-grid-snake-dark.svg)">
+  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/AntonieV/AntonieV/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/AntonieV/AntonieV/output/github-contribution-grid-snake.svg)">
+  <img alt="github contribution grid snake animation" src="[https://raw.githubusercontent.com/AntonieV/AntonieV/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/AntonieV/AntonieV/output/github-contribution-grid-snake.svg)">
+</picture>
+
+
 <!-- [![](https://github-readme-stats.vercel.app/api?username=AntonieV&show_icons=true&count_private=true&hide_rank=false&include_all_commits=false&custom_title=Statistics:&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->

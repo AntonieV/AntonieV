@@ -2,10 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=antoniev&color=039183&style=plastic&label=VISITORS)
 
-<!-- <div align="left">
+<div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </div>
-<br> -->
+<br>
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AntonieV&layout=compact&hide=Tex,PostScript,jupyter%20notebook&border_color=2a2f3a&langs_count=9&theme=chartreuse-dark)<br>
 

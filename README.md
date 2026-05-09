@@ -15,8 +15,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,r,java,typescript,bash,css,html,angular,docker,aws,linux,latex,npm,nodejs,spring&perline=5" alt="My Skills" align="top">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="150" align="top">
+  <!-- &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="150" align="top"> -->
 </div>
 <br>
 

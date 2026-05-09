@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=antoniev&color=039183&style=plastic&label=VISITORS)
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="865">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 </div>
 <br>
 
@@ -17,7 +17,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="150" align="top"> -->
-  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="280" align="top">
   
 </div>
 <br>
